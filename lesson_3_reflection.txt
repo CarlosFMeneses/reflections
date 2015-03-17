@@ -31,7 +31,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate without using Git or GitHub by creating folders on a server
+    which everyone in a team would have access to, and by sending email notifications
+    to various users regarding any changes on the server. Working without a CMS 
+    always harder than working with one, like GitHub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
