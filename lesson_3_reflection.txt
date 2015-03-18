@@ -39,4 +39,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make chages in a speratate branch rathe than directly in 
+    master when you have an idea/concept that needss to be developed and debugged.
+    This approach has the benefit that the master won't be altered, while the 
+    idea/concept is finalized, if ever.
